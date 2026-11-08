@@ -1,0 +1,10 @@
+﻿# Local browser captures, scripts and agent state stay out of the published project.
+output/
+.playwright-mcp/
+.impeccable/
+.codex/
+.agents/
+.env
+.env.*
+Thumbs.db
+.DS_Store

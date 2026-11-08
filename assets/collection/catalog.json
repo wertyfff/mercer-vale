@@ -1,0 +1,434 @@
+[
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-02.jpg",
+    "title": "The city coat.",
+    "description": "A tan coat and a wide-brimmed hat, photographed on brick steps.",
+    "alt": "A tan coat and a wide-brimmed hat, photographed on brick steps."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-01.jpg",
+    "title": "Up close.",
+    "description": "The cuff, the belt and a watch: a closer look at a beige trench.",
+    "alt": "The cuff, the belt and a watch: a closer look at a beige trench."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-edit-02.jpg",
+    "title": "Burgundy outside.",
+    "description": "A burgundy coat over a dark turtleneck, finished with sunglasses.",
+    "alt": "A burgundy coat over a dark turtleneck, finished with sunglasses."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-new-32.jpg",
+    "title": "A longer line.",
+    "description": "A camel coat with an asymmetric hem, tied at the waist over black.",
+    "alt": "A camel coat with an asymmetric hem, tied at the waist over black."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-new-33.jpg",
+    "title": "Belted in beige.",
+    "description": "A beige trench coat with a wide collar, worn over a black top.",
+    "alt": "A beige trench coat with a wide collar, worn over a black top."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-new-34.jpg",
+    "title": "Open over black.",
+    "description": "A tan coat left open over a short black dress.",
+    "alt": "A tan coat left open over a short black dress."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-new-35.jpg",
+    "title": "White outer layer.",
+    "description": "An oversized white coat, a small shoulder bag and black ankle boots.",
+    "alt": "An oversized white coat, a small shoulder bag and black ankle boots."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/women-coat-new-20.jpg",
+    "title": "Out on the street.",
+    "description": "A short beige jacket, a dark skirt and tall black boots.",
+    "alt": "A short beige jacket, a dark skirt and tall black boots."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-top-01.jpg",
+    "title": "White, with black.",
+    "description": "A cropped white T-shirt with black cargo trousers.",
+    "alt": "A cropped white T-shirt with black cargo trousers."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-detail-01.jpg",
+    "title": "A softer line.",
+    "description": "A white blouse and a pale pleated skirt, photographed seated.",
+    "alt": "A white blouse and a pale pleated skirt, photographed seated."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-shirt-02.jpg",
+    "title": "In blue.",
+    "description": "A patterned blue shirt, photographed on a hanger.",
+    "alt": "A patterned blue shirt, photographed on a hanger."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-silhouette-01.jpg",
+    "title": "Head to toe.",
+    "description": "Yellow separates and white boots on an outdoor court.",
+    "alt": "Yellow separates and white boots on an outdoor court."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-top-new-11.jpg",
+    "title": "Blue, laid out.",
+    "description": "A striped blue shirt and matching skirt, arranged with white sneakers.",
+    "alt": "A striped blue shirt and matching skirt, arranged with white sneakers."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-top-new-12.jpg",
+    "title": "The floral shirt.",
+    "description": "A red shirt with a large pale floral print.",
+    "alt": "A red shirt with a large pale floral print."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-top-new-13.jpg",
+    "title": "The overshirt.",
+    "description": "A grey overshirt with a pointed collar and large chest pocket.",
+    "alt": "A grey overshirt with a pointed collar and large chest pocket."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/women-knit-01.jpg",
+    "title": "A printed white tee.",
+    "description": "A white T-shirt with a small graphic print, shown on a hanger.",
+    "alt": "A white T-shirt with a small graphic print, shown on a hanger."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-02.jpg",
+    "title": "An open stitch.",
+    "description": "A cream crochet top, shown on a hanger so the stitch takes focus.",
+    "alt": "A cream crochet top, shown on a hanger so the stitch takes focus."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-01.jpg",
+    "title": "The red sweater.",
+    "description": "A deep red ribbed sweater layered over a white pointed collar.",
+    "alt": "A deep red ribbed sweater layered over a white pointed collar."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-02.jpg",
+    "title": "Green cable knit.",
+    "description": "An oversized green cable-knit sweater, photographed outdoors.",
+    "alt": "An oversized green cable-knit sweater, photographed outdoors."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-03.jpg",
+    "title": "The stitch, close up.",
+    "description": "A close view of a cream sweater with open stitches and ribbed cuffs.",
+    "alt": "A close view of a cream sweater with open stitches and ribbed cuffs."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-04.jpg",
+    "title": "Cream against blue.",
+    "description": "A long cream cardigan, photographed against a clear blue sky.",
+    "alt": "A long cream cardigan, photographed against a clear blue sky."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-06.jpg",
+    "title": "A pale grey layer.",
+    "description": "A soft grey sweater, photographed in warm outdoor light.",
+    "alt": "A soft grey sweater, photographed in warm outdoor light."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-07.jpg",
+    "title": "The white turtleneck.",
+    "description": "A white cable-knit turtleneck, held on a hanger beside dried flowers.",
+    "alt": "A white cable-knit turtleneck, held on a hanger beside dried flowers."
+  },
+  {
+    "gender": "women",
+    "categoryKey": "knitwear",
+    "category": "Knitwear",
+    "image": "assets/collection/women-knit-new-09.jpg",
+    "title": "Dark red, close up.",
+    "description": "A deep burgundy textured knit, shown in a close crop.",
+    "alt": "A deep burgundy textured knit, shown in a close crop."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-tie-01.jpg",
+    "title": "Shirt. Tie. After dark.",
+    "description": "A white shirt, a patterned tie and relaxed black trousers. The starting point for the men’s edit.",
+    "alt": "A white shirt, a patterned tie and relaxed black trousers. The starting point for the men’s edit."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-tie-03.jpg",
+    "title": "A narrow tie.",
+    "description": "A white shirt and a dark tie, photographed in black and white.",
+    "alt": "A white shirt and a dark tie, photographed in black and white."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-shirt-02.jpg",
+    "title": "The dotted tie.",
+    "description": "A close crop of a white shirt and a dark, dotted tie.",
+    "alt": "A close crop of a white shirt and a dark, dotted tie."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-tailoring-01.jpg",
+    "title": "Blue, full length.",
+    "description": "A blue suit with a white open-collar shirt.",
+    "alt": "A blue suit with a white open-collar shirt."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-suit-new-26.jpg",
+    "title": "The brown suit.",
+    "description": "A brown suit with a white shirt, patterned tie and dark sunglasses.",
+    "alt": "A brown suit with a white shirt, patterned tie and dark sunglasses."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-suit-new-27.jpg",
+    "title": "Black in motion.",
+    "description": "A full-length black suit, photographed beneath a tall arch.",
+    "alt": "A full-length black suit, photographed beneath a tall arch."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-suit-new-28.jpg",
+    "title": "The monochrome study.",
+    "description": "A white shirt and black tie with a dark jacket in motion, photographed in black and white.",
+    "alt": "A white shirt and black tie with a dark jacket in motion, photographed in black and white."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "tailoring",
+    "category": "Tailoring",
+    "image": "assets/collection/men-suit-new-29.jpg",
+    "title": "An orange jacket.",
+    "description": "An orange tailored jacket, blue tie and dark trousers on city steps.",
+    "alt": "An orange tailored jacket, blue tie and dark trousers on city steps."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-01.jpg",
+    "title": "Sleeves rolled.",
+    "description": "A white shirt with the sleeves rolled up, worn with dark trousers.",
+    "alt": "A white shirt with the sleeves rolled up, worn with dark trousers."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-tie-04.jpg",
+    "title": "Leave it open.",
+    "description": "An open white shirt layered over black, with dark trousers.",
+    "alt": "An open white shirt layered over black, with dark trousers."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-night-01.jpg",
+    "title": "Room to move.",
+    "description": "Loose black trousers, a white short-sleeved shirt and sneakers, photographed after dark.",
+    "alt": "Loose black trousers, a white short-sleeved shirt and sneakers, photographed after dark."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-new-14.jpg",
+    "title": "With braces.",
+    "description": "A white shirt with rolled sleeves, black braces and black trousers.",
+    "alt": "A white shirt with rolled sleeves, black braces and black trousers."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-new-15.jpg",
+    "title": "Pale blue, buttoned.",
+    "description": "A pale blue shirt with a navy tie, worn with cream trousers.",
+    "alt": "A pale blue shirt with a navy tie, worn with cream trousers."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-new-16.jpg",
+    "title": "Three collars.",
+    "description": "Three collared shirts in white and shades of blue, arranged flat.",
+    "alt": "Three collared shirts in white and shades of blue, arranged flat."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-new-17.jpg",
+    "title": "The checked shirt.",
+    "description": "A black and grey checked shirt, photographed on a hanger.",
+    "alt": "A black and grey checked shirt, photographed on a hanger."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "everyday",
+    "category": "Shirts & tops",
+    "image": "assets/collection/men-shirt-hanger.jpg",
+    "title": "A white shirt, alone.",
+    "description": "A white button-up shirt photographed on a wooden hanger.",
+    "alt": "A white button-up shirt photographed on a wooden hanger."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-outerwear-01.jpg",
+    "title": "The rust jacket.",
+    "description": "A rust-coloured bomber jacket, photographed on a hanger.",
+    "alt": "A rust-coloured bomber jacket, photographed on a hanger."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-36.jpg",
+    "title": "The denim jacket.",
+    "description": "A dark denim jacket with a contrasting tan collar, shown on a hanger.",
+    "alt": "A dark denim jacket with a contrasting tan collar, shown on a hanger."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-23.jpg",
+    "title": "Black leather.",
+    "description": "A close view of a black leather biker jacket with silver zips.",
+    "alt": "A close view of a black leather biker jacket with silver zips."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-24.jpg",
+    "title": "Olive, zipped.",
+    "description": "A close crop of an olive zip-up jacket and its cuff.",
+    "alt": "A close crop of an olive zip-up jacket and its cuff."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-25.jpg",
+    "title": "The burgundy bomber.",
+    "description": "A burgundy satin bomber jacket with striped ribbing.",
+    "alt": "A burgundy satin bomber jacket with striped ribbing."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-31.jpg",
+    "title": "The rain layer.",
+    "description": "A close view of a black rain jacket with a high collar.",
+    "alt": "A close view of a black rain jacket with a high collar."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-jacket-new-18.jpg",
+    "title": "A brighter shell.",
+    "description": "A yellow outdoor shell jacket with black panels.",
+    "alt": "A yellow outdoor shell jacket with black panels."
+  },
+  {
+    "gender": "men",
+    "categoryKey": "outerwear",
+    "category": "Outerwear",
+    "image": "assets/collection/men-suit-new-30.jpg",
+    "title": "The overcoat.",
+    "description": "A black overcoat over an ochre waistcoat, finished with a black hat.",
+    "alt": "A black overcoat over an ochre waistcoat, finished with a black hat."
+  }
+]

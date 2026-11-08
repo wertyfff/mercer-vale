@@ -1,0 +1,11 @@
+﻿# MERCER VALE
+
+Independent clothing house. The existing English-language brand, London setting, collection in development and contact address are retained from the original project. This is a campaign and enquiry website, not a working shop. No product specifications, prices, stock, or manufacturing claims have been supplied.
+
+The user requested an original clothing website informed by https://white-desert.com/, especially its compositions and animations, with Unsplash photographs. Reference inspected live on desktop and mobile on 2026-11-08. Campaign photography is illustrative; the collection studies and lookbook explicitly identify this.
+
+User decisions on 2026-11-08: study ten relevant clothing stores and improve every homepage block accordingly; explicitly add a loading screen and return to the hero on browser reload. This overrides the earlier design note against loading introductions and forced reload reset. Keep the opener short, skippable and time-bounded, preserve normal in-page navigation, and honor reduced motion. RESEARCH.md records the live research, access limitations, implementation mapping and checks. Current additions include local search, category filters, styling stories and an honest launch/fit FAQ. The collection remains in development; no invented inventory, prices, shipping terms or checkout.
+
+Current language: English. User requested a fresh, less generic copywriting pass after additional live fashion-brand research. See COPY-REVIEW.md. Voice: a clothing-house editor describing visible garments and styling decisions, with one expressive campaign headline and plain practical copy. No invented production, heritage, fabric or durability claims. The loading screen is now a minimal split wordmark with a seam that fills with asset readiness and opens from the centre; the earlier large duplicate brand/monogram and decorative footer lines are removed.
+
+The latest opening replaces the earlier seam treatment with a photographic development sequence: five clipped strips reveal the campaign frame over 5.2 seconds, followed by a 0.9-second exit. It checks cover/font readiness first, offers immediate entry, and uses a static reduced-motion alternative. The frame counter measures the visual sequence, not download bytes. Existing Behance exports are preserved as snapshots of the earlier design.
